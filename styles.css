@@ -1,0 +1,38 @@
+body{
+	font-family:'Roboto';
+}
+header{
+	background-color: #333;
+	color: #fff;
+	text-align: center;
+	padding: 20px;
+}
+header img{
+	width: 100px;
+	height:100px;
+	border-radius: 50px;
+}
+.container{
+	text-align: center;
+	padding: 10px;
+	background-color:#bec1c4;
+}
+.container p,li{
+	text-align: left;
+}
+.container h4{
+	text-align: left;
+}
+.container h5{
+	text-align: left;
+	font-style: underlined;
+}
+.container img,button {
+	display: flex;
+}
+footer {
+	background-color: #333;
+	color: #fff;
+	text-align: center;
+	padding: 20px;
+}
